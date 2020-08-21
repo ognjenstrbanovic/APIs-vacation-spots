@@ -1,4 +1,4 @@
-# python-api-vacation 🏖
+# API Vacation 🏖
 
 ![equatorsign](https://github.com/RutgersCodingBootcamp/RU-JER-DATA-PT-01-2020/blob/master/02-Homework/06-Python-APIs/Instructions/Images/equatorsign.png?raw=true)  
 
